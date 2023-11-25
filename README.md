@@ -1,1 +1,1 @@
-# ks-array-foreach-map-filter
+# js-array-foreach-map-filter
